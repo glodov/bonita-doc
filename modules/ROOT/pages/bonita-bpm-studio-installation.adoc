@@ -25,7 +25,7 @@ The solution is to use an installer to install properly the JDK. The easiest way
 
 # Use brew to install a JDK
 brew tap homebrew/cask-versions
-brew cask install java11
+brew install java11
 ----
 
 Another solution is to download and execute manually the installer, https://adoptopenjdk.net/index.html[here for example].
